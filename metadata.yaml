@@ -1,0 +1,27 @@
+_repo: A-magyar-n-p-m-v-szete--1.-k-tet---13-A-kalotaszegi-magyar-n-p-m-v-szete_40039
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40039-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Malonyay, Dezső
+    alias: Malonyay, Dezso
+    birthdate: 1866
+    deathdate: 1916
+    gutenberg_agent_id: '40382'
+    url: http://www.gutenberg.org/2009/agents/40382
+description: ''
+gutenberg_issued: '2012-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40039'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NK'
+- !lcsh 'Folk art -- Hungary'
+title: "A magyar nép művészete (1. kötet)\r\nA kalotaszegi magyar nép művészete"
+url: http://www.gutenberg.org/ebooks/40039
