@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40382'
     url: http://www.gutenberg.org/2009/agents/40382
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40039#A-magyar-n-p-m-v-szete--1.-k-tet---13-A-kalotaszegi-magyar-n-p-m-v-szete
 gutenberg_issued: '2012-06-19'
 gutenberg_type: Text
 identifiers:
